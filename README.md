@@ -2,6 +2,8 @@
   <img src="https://www.theaiautomators.com/wp-content/uploads/2025/07/Group-2651.svg" alt="InsightsLM Logo" width="600"/>
 </p>
 
+https://www.youtube.com/watch?v=oN-4AxQvKgM&t=8698s
+
 
 # InsightsLM: The Open Source NotebookLM Alternative
 
